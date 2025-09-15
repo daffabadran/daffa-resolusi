@@ -3,4 +3,6 @@ Daffa resolusi
   - lulus purwadhika
   - memahami javascript, html, css, next js, typescript, dan lainnya yang ada pada materi purwadhika
   - belajar database dan memahaminya untuk keperluan backend
+  - belajar saham
+  - lebih pandai mengatur waktu
 
