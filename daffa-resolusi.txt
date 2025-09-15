@@ -2,3 +2,5 @@ Daffa resolusi
   - konsisten belajar dan memahami pemrograman terutama dalam bidang front end atau backend
   - lulus purwadhika
   - memahami javascript, html, css, next js, typescript, dan lainnya yang ada pada materi purwadhika
+  - belajar database dan memahaminya untuk keperluan backend
+
